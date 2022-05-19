@@ -1,0 +1,155 @@
+
+
+{
+    "id_clt": "1",
+    "nom_clt": "Diallo",
+    "prenom_clt": "marion",
+    "date_naissance_clt": "2014-01-24",
+    "civilite_clt": "Monsieur",
+    "adresse_mail_clt": "diallom@gmail.com",
+    "ville_clt": "Marseille",
+    "telephone_clt": "0625147825"
+}
+{
+    "id_clt": "2",
+    "nom_clt": "kall",
+    "prenom_clt": "matt",
+    "date_naissance_clt": "2010-01-12",
+    "civilite_clt": "Monsieur",
+    "adresse_mail_clt": "kall@gmail.com",
+    "ville_clt": "Paris",
+    "telephone_clt": "0614587593"
+}
+{
+    "id_clt": "3",
+    "nom_clt": "Egon",
+    "prenom_clt": "deyaert",
+    "date_naissance_clt": "1999-04-26",
+    "civilite_clt": "Monsieur",
+    "adresse_mail_clt": "egon@gmail.com",
+    "ville_clt": "Roubaix",
+    "telephone_clt": "0784152395"
+}
+{
+    "id_clt": "4",
+    "nom_clt": "Alpha",
+    "prenom_clt": "Barry",
+    "date_naissance_clt": "1976-06-20",
+    "civilite_clt": "Monsieur",
+    "adresse_mail_clt": null,
+    "ville_clt": "Lille",
+    "telephone_clt": "07548886254"
+}
+{
+    "id_clt": "5",
+    "nom_clt": "Gautier",
+    "prenom_clt": "jade",
+    "date_naissance_clt": "1998-05-29",
+    "civilite_clt": "Madame",
+    "adresse_mail_clt": "jadeg@gmail.com",
+    "ville_clt": "Lyon",
+    "telephone_clt": "0625147825"
+}
+{
+    "id_clt": "6",
+    "nom_clt": "Bernard",
+    "prenom_clt": "louis",
+    "date_naissance_clt": "2010-08-14",
+    "civilite_clt": "Monsieur",
+    "adresse_mail_clt": "bernard@gmail.com",
+    "ville_clt": "Bordeaux",
+    "telephone_clt": null
+}
+{
+    "id_clt": "7",
+    "nom_clt": "Petit",
+    "prenom_clt": "alice",
+    "date_naissance_clt": "2003-10-25",
+    "civilite_clt": "Madame",
+    "adresse_mail_clt": "alice@gmail.com",
+    "ville_clt": "Marseille",
+    "telephone_clt": null
+}
+{
+    "id_clt": "8",
+    "nom_clt": "Roux",
+    "prenom_clt": "mia",
+    "date_naissance_clt": "2001-03-01",
+    "civilite_clt": "Madame",
+    "adresse_mail_clt": null,
+    "ville_clt": "Bordeaux",
+    "telephone_clt": "0756421893"
+}
+{
+    "id_clt": "9",
+    "nom_clt": "Laurent",
+    "prenom_clt": "leo",
+    "date_naissance_clt": "2003-09-04",
+    "civilite_clt": "Monsieur",
+    "adresse_mail_clt": "laurent@gmail.com",
+    "ville_clt": "Paris",
+    "telephone_clt": null
+}
+{
+    "id_clt": "10",
+    "nom_clt": "Girard",
+    "prenom_clt": "rose",
+    "date_naissance_clt": "2009-11-16",
+    "civilite_clt": "Madame",
+    "adresse_mail_clt": "rose@gmail.com",
+    "ville_clt": "Paris",
+    "telephone_clt": "0745846523"
+}
+{
+    "id_clt": "11",
+    "nom_clt": "Renaud",
+    "prenom_clt": "ambre",
+    "date_naissance_clt": "2005-04-15",
+    "civilite_clt": "Madame",
+    "adresse_mail_clt": null,
+    "ville_clt": "Bordeaux",
+    "telephone_clt": "0615428476"
+}
+{
+    "id_clt": "12",
+    "nom_clt": "Caron",
+    "prenom_clt": "chloe",
+    "date_naissance_clt": "2002-07-23",
+    "civilite_clt": "Madame",
+    "adresse_mail_clt": "chloecaron@gmail.com",
+    "ville_clt": "Lille",
+    "telephone_clt": null
+}
+{
+    "id_clt": "13",
+    "nom_clt": "Jacquet",
+    "prenom_clt": "mael",
+    "date_naissance_clt": "2001-05-17",
+    "civilite_clt": "Monsieur",
+    "adresse_mail_clt": "mael@gmail.com",
+    "ville_clt": "Roubaix",
+    "telephone_clt": null
+}
+{
+    "id_clt": "14",
+    "nom_clt": "Fleury",
+    "prenom_clt": "adam",
+    "date_naissance_clt": "2001-12-06",
+    "civilite_clt": "Monsieur",
+    "adresse_mail_clt": null,
+    "ville_clt": "Bordeaux",
+    "telephone_clt": "0611254875"
+}
+{
+    "id_clt": "15",
+    "nom_clt": "Morel",
+    "prenom_clt": "hugo",
+    "date_naissance_clt": "2001-12-30",
+    "civilite_clt": "Monsieur",
+    "adresse_mail_clt": "hugo@gmail.com",
+    "ville_clt": "Lyon",
+    "telephone_clt": null
+}
+
+
+
